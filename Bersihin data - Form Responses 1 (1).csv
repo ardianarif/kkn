@@ -1,0 +1,122 @@
+Dusun,Timestamp,Score,Nama,Jenis Kelamin,Usia,GDS (mg/dL),GDS >200 mg/dL,Tekanan darah (mmHg),SBP ≥130 OR DBP ≥80,TB (cm),TB (m),BB (kg),BMI,BMI Category,Lingkar Perut (cm),Riwayat Penyakit PTM,Riwayat Penyakit Keluarga,Faktor Risiko PTM,Total Cholesterol (mg/dL),Hipertensi
+Pule,7/9/2024 9:13:50,,Masruroh,Perempuan,37,106,FALSE,103/66,0,146,1.46,60.7,28.5,Obese,86,none,Hipertensi,Konsumsi lemak >5 sdm/hari,,
+Pule,7/9/2024 9:22:56,,Wulas,Perempuan,74,311,1,152/84,1,147,1.47,68,31.5,Obese,101,"Hipertensi, DM Type 2",,"Konsumsi gula >4 sdm/hari, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,1
+Pule,7/9/2024 9:27:11,,Isromiyah,Perempuan,59,85,FALSE,125/84,1,149,1.49,60.8,27.4,Obese,102,Penyakit Jantung,Hipertensi,none,,
+Pule,7/9/2024 9:31:17,,Lina GA 32 mg,Perempuan,23,107,FALSE,98/72,0,158,1.58,62.5,25.0,Obese,105,Asam lambung,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,
+Pule,7/9/2024 9:36:19,,Muntiyah,Perempuan,45,100,FALSE,120/85,1,154.6,1.546,76.3,31.9,Obese,107,none,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Konsumsi garam >1 sdt/hari",,
+Pule,7/9/2024 9:38:29,,Nuramini,Perempuan,55,235,1,115/74,0,143,1.43,53.89,26.4,Obese,89,DM Type 2,,"Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,
+Pule,7/9/2024 9:41:40,,Siti Qunayfah,Perempuan,39,122,FALSE,108/70,0,155,1.55,76.5,31.8,Obese,100,none,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Konsumsi garam >1 sdt/hari",,
+Pule,7/9/2024 9:45:33,,Siti Zaimrotun,Perempuan,54,189,FALSE,131/87,1,153,1.53,72.7,31.1,Obese,98,Hipertensi,Hipertensi,,,1
+Pule,7/9/2024 9:46:00,,Chanifatul Latifah,Perempuan,25,132,FALSE,116/73,0,148,1.48,40,18.3,Underweight,61,"Asma, Asam lambung",,Terpapar asap rokok,,
+Pule,7/9/2024 9:51:01,,Novia Fitriana,Perempuan,34,108,FALSE,122/80,1,152,1.52,68,29.4,Obese,94,none,,Konsumsi lemak >5 sdm/hari,,
+Pule,7/9/2024 9:52:26,,Siti Nurhayati,Perempuan,36,122,FALSE,115/68,0,155,1.55,58.9,24.5,Overweight,90,none,Hipertensi,Terpapar asap rokok,,1
+Pule,7/9/2024 9:54:37,,Dasriyah,Perempuan,59,115,FALSE,120/67,0,148,1.48,62.7,28.6,Obese,99,none,DM Type 2,"Kurang aktivitas fisik, Makan sayur buah <3 porsi",,
+Pule,7/9/2024 9:56:29,,Fia Azalia Putri,Perempuan,15,136,FALSE,118/65,0,158,1.58,54.9,22.0,Normal,73,,Hipertensi,"Kurang aktivitas fisik, Terpapar asap rokok, Konsumsi gula >4 sdm/hari",,
+Pule,7/9/2024 10:00:06,,Kanarti,Perempuan,59,-,1,183/102,1,153,1.53,60.4,25.8,Obese,91,Hipertensi,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi",,1
+Pule,7/9/2024 10:02:32,,Siah,Perempuan,75,126,FALSE,148/74,1,128.5,1.285,32.3,19.6,Normal,81,Hipertensi,,"Kurang aktivitas fisik, Konsumsi garam >1 sdt/hari",,1
+Pule,7/9/2024 10:03:19,,Rohmah,Perempuan,60,90,FALSE,123/77,0,147,1.47,48.7,22.5,Normal,86,,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari",,0
+Pule,7/9/2024 10:04:43,,Dermi Sejati,Perempuan,38,118,FALSE,114/83,1,154,1.54,79,33.3,Obese,93,,Hipertensi,"Kurang aktivitas fisik, Konsumsi lemak >5 sdm/hari",,
+Pule,7/9/2024 10:08:29,,Rahmawati,Perempuan,57,152,FALSE,195/95,1,146,1.46,52.6,24.7,Overweight,90,Hipertensi,Hipertensi,"Kurang aktivitas fisik, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",,1
+Pule,7/9/2024 10:13:19,,Sukardi,Laki - Laki,86,149,FALSE,73/50,0,155,1.55,42.4,17.6,Underweight,84,Asma,,Kurang aktivitas fisik,,
+Pule,7/9/2024 10:15:06,,Daniah,Perempuan,63,94,FALSE,154/73,1,144,1.44,46.3,22.3,Normal,82,,,"Kurang aktivitas fisik, Konsumsi lemak >5 sdm/hari",,
+Pule,7/9/2024 10:23:55,,Klumpuk,Perempuan,63,129,FALSE,161/89,1,150,1.5,65.7,29.2,Obese,88,Hipertensi,,Konsumsi lemak >5 sdm/hari,,1
+Pule,7/9/2024 10:29:02,,Sulam,Laki - Laki,74,109,FALSE,144/76,1,158,1.58,43.6,17.5,Underweight,77,Hipertensi,,"Merokok, Konsumsi gula >4 sdm/hari, Konsumsi garam >1 sdt/hari, Insomnia",,1
+Pule,7/9/2024 10:33:00,,Marsandi,Laki - Laki,59,117,FALSE,118/70,0,157,1.57,59.4,24.1,Overweight,85,,,"Merokok, Makan sayur buah <3 porsi",,
+Pule,7/9/2024 10:35:31,,Sumirah,Perempuan,74,238,1,155/87,1,142,1.42,57,28.3,Obese,99,DM Type 2,Hipertensi,"Konsumsi garam >1 sdt/hari, Insomnia",,
+Pule,7/9/2024 10:40:20,,Ulin Ni'mah,Perempuan,16,95,FALSE,131/110,1,151,1.51,54,23.7,Overweight,74,,,"Konsumsi lemak >5 sdm/hari, Insomnia",,
+Pule,7/9/2024 10:40:53,,Umi,Perempuan,43,104,FALSE,152/108,1,151,1.51,74.6,32.7,Obese,99,Hipertensi,"Hipertensi, DM Type 2","Makan sayur buah <3 porsi, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,1
+Pule,7/9/2024 10:43:28,,Tukul,Laki - Laki,60,109,FALSE,190/92,1,149,1.49,44.7,20.1,Normal,82,Hipertensi,,"Merokok, Konsumsi garam >1 sdt/hari",,1
+Pule,7/9/2024 10:47:48,,Nurwakhidah,Perempuan,26,105,FALSE,125/88,1,153,1.53,60.7,25.9,Obese,81,,Hipertensi,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Konsumsi garam >1 sdt/hari",,
+Pule,7/9/2024 10:51:37,,Muhdayin,Laki - Laki,68,117,FALSE,134/80,1,151,1.51,52.4,23.0,Normal,87,,,,,
+Pule,7/9/2024 11:02:54,,Muhammad Taharudin,Laki - Laki,71,150,FALSE,155/97,1,163,1.63,64.7,24.4,Overweight,89,Hipertensi,Hipertensi,"Merokok, Konsumsi garam >1 sdt/hari",,1
+Pule,7/9/2024 11:26:41,,Siti Saidah,Perempuan,55,108,FALSE,135/84,1,144.5,1.445,46,22.0,Normal,80,,Hipertensi,Terpapar asap rokok,,
+Gupit,7/10/2024 9:07:35,,Inti Kuswati,Perempuan,39,118,FALSE,-,,154,1.54,63,26.6,Obese,86,,,"Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",140,
+Gupit,7/10/2024 9:16:56,,Musarofah,Perempuan,54,121,FALSE,141/78,1,146,1.46,52,24.4,Overweight,78,,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",,
+Gupit,7/10/2024 9:21:06,,Yarodah,Perempuan,62,141,FALSE,200/125,1,148,1.48,64,29.2,Obese,96,"Hipertensi, Penyakit Jantung, Asam Lambung",Hipertensi,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",232,1
+Gupit,7/10/2024 9:21:29,,Sulastri,Perempuan,51,115,FALSE,175/108,1,143,1.43,54,26.4,Obese,81,Hipertensi,,Konsumsi garam >1 sdt/hari,-,1
+Gupit,7/10/2024 9:26:06,,Kotiah,Perempuan,60,102,FALSE,169/100,1,135,1.35,43,23.6,Overweight,80,"Hipertensi, Asam Lambung",,Konsumsi garam >1 sdt/hari,,1
+Gupit,7/10/2024 9:29:56,,Karmonah,Perempuan,62,120,FALSE,170/106,1,140.4,1.404,63,32.0,Obese,92,Hipertensi,Hipertensi,"Konsumsi lemak >5 sdm/hari, Insomnia",153,1
+Gupit,7/10/2024 9:31:35,,Maryamah,Perempuan,63,85,FALSE,105/86,1,137,1.37,59,31.4,Obese,93,DM Type 2,,"Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",140,
+Gupit,7/10/2024 9:35:37,,Asmiyati,Perempuan,55,255,1,193/108,1,154,1.54,68,28.7,Obese,82,"Hipertensi, DM Type 2",,Konsumsi lemak >5 sdm/hari,-,1
+Gupit,7/10/2024 9:36:18,,Siti Munjayati,Perempuan,53,110,FALSE,174/103,1,145,1.45,50.8,24.2,Overweight,75,Hipertensi,Hipertensi,"Konsumsi lemak >5 sdm/hari, Insomnia",,1
+Gupit,7/10/2024 9:40:54,,Isti Kariyah,Perempuan,40,102,FALSE,158/96,1,152.5,1.525,62.1,26.7,Obese,76,,Hipertensi,"Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",,
+Gupit,7/10/2024 9:43:54,,Suparnah,Perempuan,88,136,FALSE,212/101,1,149.5,1.495,46,20.6,Normal,81,Hipertensi,,Makan sayur buah <3 porsi,140,1
+Gupit,7/10/2024 9:46:58,,Ernawati,Perempuan,36,136,FALSE,123/82,1,144,1.44,44,21.2,Normal,-,,Hipertensi,"Kurang aktivitas fisik, Terpapar asap rokok",,
+Gupit,7/10/2024 9:49:46,,Himatul Lutfi Aliyah,Perempuan,24,109,FALSE,115/73,0,152,1.52,64.9,28.1,Obese,-,,,"Kurang aktivitas fisik, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,
+Gupit,7/10/2024 9:56:03,,Sayadah,Perempuan,62,-,1,139/86,1,144,1.44,55.3,26.7,Obese,82,Hipertensi,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",178,1
+Gupit,7/10/2024 9:57:42,,Priska,Perempuan,26,98,FALSE,100/76,0,147,1.47,43.5,20.1,Normal,68,Asam Lambung,DM Type 2,,,
+Gupit,7/10/2024 10:01:27,,Suparti,Perempuan,43,105,FALSE,154/103,1,150,1.5,44.6,19.8,Normal,69,Hipertensi,Hipertensi,"Kurang aktivitas fisik, Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,1
+Gupit,7/10/2024 10:10:33,,Triyani,Perempuan,54,144,FALSE,141/89,1,153,1.53,56,23.9,Overweight,86,Hipertensi,,"Kurang aktivitas fisik, Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,1
+Gupit,7/10/2024 10:13:18,,Diryamah,Perempuan,58,128,FALSE,155/82,1,148.4,1.484,52,23.6,Overweight,82.8,Hipertensi,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,1
+Gupit,7/10/2024 10:13:52,,Tukirah,Perempuan,70,97,FALSE,116/79,0,141,1.41,39,19.6,Normal,69,,,"Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",140,
+Gupit,7/10/2024 10:19:53,,Siti Komariyah,Perempuan,42,102,FALSE,120/84,1,144.8,1.448,62.3,29.7,Obese,89,,,Konsumsi lemak >5 sdm/hari,-,
+Gupit,7/10/2024 10:30:26,,Wasilah,Perempuan,67,121,FALSE,162/109,1,147,1.47,47.9,22.2,Normal,92,Hipertensi,,Insomnia,140,1
+Gupit,7/10/2024 10:31:06,,Mujirah,Perempuan,62,88,FALSE,179/97,1,141,1.41,65,32.7,Obese,98,Hipertensi,Hipertensi,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",140,1
+Gupit,7/10/2024 10:35:40,,Sri Ismiyatun,Perempuan,64,99,FALSE,149/93,1,151,1.51,46.2,20.3,Normal,78,"Hipertensi, Asam Lambung",Hipertensi,Konsumsi lemak >5 sdm/hari,140,1
+Gupit,7/10/2024 10:38:31,,Marini,Perempuan,68,140,FALSE,194/100,1,145,1.45,52,24.7,Overweight,85,Hipertensi,,"Makan sayur buah <3 porsi, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",140,1
+Gupit,7/10/2024 10:42:40,,Rochimatun,Perempuan,74,101,FALSE,148/77,1,146.4,1.464,34.3,16.0,Underweight,63,,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",140,
+Gupit,7/10/2024 10:44:52,,Nuryamah,Perempuan,58,147,FALSE,176/104,1,143,1.43,56.7,27.7,Obese,81,Hipertensi,,"Terpapar asap rokok, Insomnia",-,1
+Gupit,7/10/2024 10:48:27,,Marwiyah,Perempuan,66,140,FALSE,146/91,1,136,1.36,43,23.2,Overweight,86,,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi",235,
+Gupit,7/10/2024 10:51:57,,Yeti,Perempuan,74,137,FALSE,153/94,1,139.8,1.398,52.9,27.1,Obese,89,Hipertensi,,Kurang aktivitas fisik,140,1
+Cakran,7/13/2024 9:20:12,,Surun,Laki - Laki,80,105,FALSE,116/61,0,156,1.56,44.4,18.2,Underweight,77,,,Kurang aktivitas fisik,-,
+Cakran,7/13/2024 9:23:45,,Istiyah,Perempuan,68,-,1,166/101,1,150.5,1.505,45,19.9,Normal,64,Hipertensi,,Konsumsi lemak >5 sdm/hari,-,1
+Cakran,7/13/2024 9:25:35,,Didin,Perempuan,63,132,FALSE,154/93,1,155,1.55,64,26.6,Obese,105,Penyakit Jantung,,Konsumsi lemak >5 sdm/hari,,
+Cakran,7/13/2024 9:28:19,,Suparmi,Perempuan,59,118,FALSE,151/90,1,147,1.47,46,21.3,Normal,61,Hipertensi,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari, Insomnia",-,1
+Cakran,7/13/2024 9:30:07,,Tarwiti,Perempuan,67,94,FALSE,162/75,1,142,1.42,57,28.3,Obese,94,Hipertensi,,"Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",,1
+Cakran,7/13/2024 9:32:44,,Mijatun,Perempuan,71,-,1,81/69,0,151.5,1.515,41.6,18.1,Underweight,88,,,"Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 9:36:36,,Suprapti,Perempuan,53,-,1,173/97,1,150,1.5,82,36.4,Obese,115,Hipertensi,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,1
+Cakran,7/13/2024 9:39:56,,Rini,Perempuan,30,93,FALSE,139/94,1,153,1.53,71,30.3,Obese,93,,,Terpapar asap rokok,,
+Cakran,7/13/2024 9:40:22,,Sunariyah,Perempuan,71,-,1,147/93,1,147,1.47,59,27.3,Obese,93,,,"Kurang aktivitas fisik, Terpapar asap rokok",-,
+Cakran,7/13/2024 9:43:13,,Munarti,Perempuan,43,-,1,171/107,1,155.5,1.555,55,22.7,Normal,80,,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari",,
+Cakran,7/13/2024 9:45:01,,Suprapto,Laki - Laki,71,-,1,149/82,1,153,1.53,53.7,22.9,Normal,85,Hipertensi,,Konsumsi lemak >5 sdm/hari,-,1
+Cakran,7/13/2024 9:48:16,,Siti Mujiah,Perempuan,56,HI,1,130/75,1,146,1.46,63,29.6,Obese,97,"Hipertensi, DM Type 2",,"Kurang aktivitas fisik, Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,1
+Cakran,7/13/2024 9:48:53,,Intan Lestari,Perempuan,28,102,FALSE,121/82,1,156,1.56,66,27.1,Obese,88,,,"Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 9:50:03,,Suyami,Perempuan,37,98,FALSE,149/110,1,142,1.42,53.5,26.5,Obese,81,,,"Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 9:52:56,,Sumarni,Perempuan,69,396,1,164/96,1,156.5,1.565,50,20.4,Normal,90,Hipertensi,,Kurang aktivitas fisik,,1
+Cakran,7/13/2024 9:55:26,,Suyudi ,Laki - Laki,61,148,FALSE,156/83,1,159,1.59,52,20.6,Normal,81,Stroke,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari",-,
+Cakran,7/13/2024 9:55:38,,Supinah,Perempuan,59,-,1,168/80,1,144,1.44,51.8,25.0,Overweight,91,Hipertensi,,Konsumsi lemak >5 sdm/hari,-,1
+Cakran,7/13/2024 9:58:53,,Bening,Perempuan,70,-,1,157/105,1,150.5,1.505,58.9,26.0,Obese,105,"Hipertensi, Stroke",Hipertensi,Konsumsi lemak >5 sdm/hari,,1
+Cakran,7/13/2024 9:59:38,,Indri,Perempuan,42,150,FALSE,140/86,1,161,1.61,42.7,16.5,Underweight,68,,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 10:01:32,,Maryani,Perempuan,53,-,1,117/70,0,153.5,1.535,47.2,20.0,Normal,84,Asam Lambung,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,
+Cakran,7/13/2024 10:02:45,,Amsih,Perempuan,62,-,1,141/88,1,146,1.46,55,25.8,Obese,94,,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 10:06:27,,Ibu Mukris,Perempuan,70,100,FALSE,141/83,1,141,1.41,46,23.1,Overweight,89,,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",140,
+Cakran,7/13/2024 10:06:38,,Sriyati,Perempuan,63,111,FALSE,175/93,1,159,1.59,52,20.6,Normal,81,Hipertensi,Hipertensi,Insomnia,,1
+Cakran,7/13/2024 10:07:59,,Sartiningsih,Perempuan,52,111,FALSE,148/80,1,144,1.44,41,19.8,Normal,70,,,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 10:11:11,,Ibu Tri Istiyati,Perempuan,63,108,FALSE,141/76,1,153.5,1.535,70,29.7,Obese,105,"Hipertensi, Asam Lambung",,"Kurang aktivitas fisik, Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari, Insomnia",-,1
+Cakran,7/13/2024 10:12:21,,Tiwi Sukowati,Perempuan,33,123,FALSE,131/80,1,152,1.52,47.8,20.7,Normal,75,,,"Kurang aktivitas fisik, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,
+Cakran,7/13/2024 10:13:09,,Welas,Perempuan,70,-,1,170/87,1,147.5,1.475,39.7,18.2,Underweight,85,Hipertensi,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari",-,1
+Cakran,7/13/2024 10:15:55,,Ibu Turinah,Perempuan,61,170,FALSE,153/88,1,153,1.53,65.5,28.0,Obese,96,Asam Lambung,,"Kurang aktivitas fisik, Terpapar asap rokok, Makan sayur buah <3 porsi, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 10:16:36,,Siti Saroh,Perempuan,44,-,1,130/87,1,151.5,1.515,57.6,25.1,Obese,90,,,Konsumsi garam >1 sdt/hari,,
+Cakran,7/13/2024 10:19:33,,Nurul Hikmah,Perempuan,36,80,FALSE,150/101,1,157,1.57,63,25.6,Obese,-,Asam Lambung,Hipertensi,Konsumsi lemak >5 sdm/hari,-,
+Cakran,7/13/2024 10:23:16,,Neni,Perempuan,42,85,FALSE,124/76,0,160,1.6,64.9,25.4,Obese,95,Hipertensi,Hipertensi,Terpapar asap rokok,,1
+Cakran,7/13/2024 10:25:15,,Ibu Marliyah,Perempuan,58,140,FALSE,169/110,1,157,1.57,77.9,31.6,Obese,100,Asam Lambung,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,
+Cakran,7/13/2024 10:32:22,,Istikatun,Perempuan,63,-,1,181/94,1,153.5,1.535,62,26.3,Obese,90,Hipertensi,,Konsumsi lemak >5 sdm/hari,-,1
+Cakran,7/13/2024 10:34:42,,Ibu Yatima,Perempuan,60,-,1,130/80,1,152,1.52,61.2,26.5,Obese,85,,Hipertensi,Konsumsi lemak >5 sdm/hari,-,
+Cakran,7/13/2024 10:36:25,,Eni,Perempuan,26,143,FALSE,168/86,1,150.5,1.505,47.8,21.1,Normal,77,Asam Lambung,Hipertensi,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Insomnia",,
+Cakran,7/13/2024 11:08:21,,Pak Tugiman,Laki - Laki,59,586,1,180/97,1,153,1.53,51.6,22.0,Normal,87,,,"Kurang aktivitas fisik, Terpapar asap rokok, Konsumsi garam >1 sdt/hari",-,
+Gunung Mijil,7/20/2024 9:20:50,,Hidayati Nur,Perempuan,47,166,FALSE,194/107,1,156,1.56,60,24.7,Overweight,93,Hipertensi,Hipertensi,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",-,1
+Gunung Mijil,7/20/2024 9:25:01,,Amin Sutjipto,Laki - Laki,88,90,FALSE,174/67,1,150.3,1.503,39,17.3,Underweight,87,Hipertensi,,Kurang aktivitas fisik,-,1
+Gunung Mijil,7/20/2024 9:26:22,,Muslikah,Perempuan,52,156,FALSE,141/92,1,154.7,1.547,69.5,29.0,Obese,104,Hipertensi,Hipertensi,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,1
+Gunung Mijil,7/20/2024 9:29:33,,Pujiyati,Perempuan,60,88,FALSE,112/74,0,145.3,1.453,46,21.8,Normal,86,,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",,
+Gunung Mijil,7/20/2024 9:31:06,,Erna Fatmawati,Perempuan,24,95,FALSE,119/78,0,145,1.45,40.7,19.4,Normal,-,,Hipertensi,Terpapar asap rokok,-,
+Gunung Mijil,7/20/2024 9:38:29,,Hanifah,Perempuan,51,115,FALSE,138/90,1,146.2,1.462,62.65,29.3,Obese,96,,,"Kurang aktivitas fisik, Terpapar asap rokok, Insomnia",,
+Gunung Mijil,7/20/2024 9:41:06,,Safitri,Perempuan,32,117,FALSE,113/90,1,154,1.54,56.9,24.0,Overweight,94,,,Kurang aktivitas fisik,,
+Gunung Mijil,7/20/2024 9:45:05,,Siti Arminatin,Perempuan,31,96,FALSE,126/83,1,146.5,1.465,36,16.8,Underweight,-,,,"Terpapar asap rokok, Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,
+Gunung Mijil,7/20/2024 9:49:50,,Hartatik,Perempuan,60,140,FALSE,132/120,1,148.5,1.485,96,43.5,Obese,136,"Hipertensi, DM Type 2, Penyakit Jantung, Asam Lambung",,"Kurang aktivitas fisik, Makan sayur buah <3 porsi",-,1
+Gunung Mijil,7/20/2024 9:51:48,,Uyek,Perempuan,90,139,FALSE,135/70,1,137.5,1.375,43.5,23.0,Overweight,89,,,Kurang aktivitas fisik,,
+Gunung Mijil,7/20/2024 9:56:20,,Jumailah,Perempuan,66,121,FALSE,126/78,0,141.6,1.416,69,34.4,Obese,115,,,Konsumsi lemak >5 sdm/hari,-,
+Gunung Mijil,7/20/2024 10:01:34,,Mursidah,Perempuan,60,116,FALSE,127/76,0,152.5,1.525,49,21.1,Normal,90,Asam Lambung,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari",,
+Gunung Mijil,7/20/2024 10:03:58,,Nurul Astuti,Perempuan,34,100,FALSE,140/92,1,149.8,1.498,55,24.5,Overweight,86,,Hipertensi,Konsumsi gula >4 sdm/hari,,
+Gunung Mijil,7/20/2024 10:06:05,,Supriyah,Perempuan,65,89,FALSE,153/88,1,134.5,1.345,56.9,31.5,Obese,106,Hipertensi,,,-,1
+Gunung Mijil,7/20/2024 10:10:00,,Romlah,Perempuan,58,78,FALSE,146/120,1,144.6,1.446,46.2,22.1,Normal,83,Hipertensi,,"Terpapar asap rokok, Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",,1
+Gunung Mijil,7/20/2024 10:14:37,,Mudrikah,Perempuan,68,122,FALSE,139/84,1,142.5,1.425,58,28.6,Obese,105,"Hipertensi, Asam Lambung",,"Konsumsi garam >1 sdt/hari, Konsumsi lemak >5 sdm/hari",-,1
+Gunung Mijil,7/20/2024 10:18:51,,Mulastri,Perempuan,69,134,FALSE,140/80,1,131.4,1.314,42.6,24.7,Overweight,88,,,"Makan sayur buah <3 porsi, Konsumsi lemak >5 sdm/hari",,
+Gunung Mijil,7/20/2024 10:21:22,,Kastimah,Perempuan,66,117,FALSE,156/85,1,144.3,1.443,43.7,21.0,Normal,86,Hipertensi,,Insomnia,-,1
+Gunung Mijil,7/20/2024 10:24:44,,Nuryati,Perempuan,60,119,FALSE,99/68,0,144,1.44,49.2,23.7,Overweight,89,,Hipertensi,Konsumsi lemak >5 sdm/hari,,
+Gunung Mijil,7/20/2024 10:26:40,,Munjayimah,Perempuan,66,132,FALSE,143/88,1,137.4,1.374,43.4,23.0,Normal,86,"Hipertensi, Asam Lambung",,,-,1
+Gunung Mijil,7/20/2024 10:30:37,,Marsumi,Perempuan,59,156,FALSE,124/105,1,144.8,1.448,73.4,35.0,Obese,116,"Hipertensi, DM Type 2",DM Type 2,"Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari, Insomnia",,1
+Gunung Mijil,7/20/2024 10:35:36,,Mutmainah,Perempuan,43,107,FALSE,123/87,1,151,1.51,58.9,25.8,Obese,88,,,Konsumsi gula >4 sdm/hari,,
+Gunung Mijil,7/20/2024 10:37:51,,Astuti,Perempuan,35,124,FALSE,142/94,1,147,1.47,48.9,22.6,Normal,87,Hipertensi,,Konsumsi garam >1 sdt/hari,-,1
+Gunung Mijil,7/20/2024 10:44:40,,Kholil,Laki - Laki,54,149,FALSE,133/75,1,148,1.48,51.45,23.5,Overweight,80,Hipertensi,,"Konsumsi gula >4 sdm/hari, Konsumsi lemak >5 sdm/hari",,1
+Gunung Mijil,7/20/2024 10:48:56,,Zuliyah,Perempuan,54,136,FALSE,155/89,1,151,1.51,62.4,27.4,Obese,97,Hipertensi,,"Kurang aktivitas fisik, Insomnia",,1
+Gunung Mijil,7/20/2024 11:00:27,,Suwanti,Perempuan,71,202,1,139/78,1,139,1.39,60.85,31.5,Obese,113,"DM Type 2, Asam Lambung",,"Terpapar asap rokok, Konsumsi lemak >5 sdm/hari",,
